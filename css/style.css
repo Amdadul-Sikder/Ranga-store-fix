@@ -24,9 +24,8 @@ body {
 .search-button {
   padding: 10px 30px!important;
   border-radius: 25px;
-  margin-left: 21px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 700!important;;
 }
 #all-products {
   display: grid;
